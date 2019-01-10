@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvCookie"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cookie"
+        android:textSize="25dp"
+        android:layout_gravity="center"
+        android:onClick="onClick"
+        />
+
+    <TextView
+        android:id="@+id/tvCandy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/candy"
+        android:textSize="25dp"
+        android:layout_gravity="center"
+        android:onClick="onClick"
+        />
+
+    <TextView
+        android:id="@+id/tvCake"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cake"
+        android:textSize="25dp"
+        android:layout_gravity="center"
+        android:onClick="onClick"
+        />
+
+    <TextView
+        android:id="@+id/tvPizza"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pizza"
+        android:textSize="25dp"
+        android:layout_gravity="center"
+        android:onClick="onClick"
+        />
+
+    <TextView
+        android:id="@+id/tvCream"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cream"
+        android:textSize="25dp"
+        android:layout_gravity="center"
+        android:onClick="onClick"
+        />
+
+    <Button
+        android:id="@+id/btnExecute"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Click to Display"
+        android:onClick="onClick"/>
+
+</LinearLayout>

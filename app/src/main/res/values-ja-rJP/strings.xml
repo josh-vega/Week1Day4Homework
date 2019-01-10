@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week1Day4Homework</string>
+    <string name="cookie" >クッキー</string>
+    <string name="candy" >キャンディー</string>
+    <string name="cake" >ケーキ</string>
+    <string name="pizza" >ピザ</string>
+    <string name="cream" >"クリーム "</string>
+</resources>

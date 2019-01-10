@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week1Day4Homework</string>
+    <string name="cookie">cookie</string>
+    <string name="candy">candy</string>
+    <string name="cake">cake</string>
+    <string name="pizza">pizza</string>
+    <string name="cream">cream</string>
+</resources>

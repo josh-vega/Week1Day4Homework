@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week1Day4Homework</string>
+    <string name="cookie">Plätzchen</string>
+    <string name="candy">Süßigkeiten</string>
+    <string name="cake">Kuchen</string>
+    <string name="pizza">Pizza</string>
+    <string name="cream">Sahne</string>
+</resources>
